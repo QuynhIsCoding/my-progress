@@ -5,5 +5,5 @@ A collection of coding projects, notes, experiments, etc.
 - Print message
 - Simple calculators: with and without prompting for input
 - Number guessing game: with and without loop
-- Student Grade Tracker: classes (Student - getName, addGrade, calculateAvg, printInfo; Main) \n
-*Review: print, if-else, for, while, random, scanner, methods, StringBuilder
+- Student Grade Tracker: classes (Student - getName, addGrade, calculateAvg, printInfo; Main) 
+=> Review: print, if-else, for, while, random, scanner, methods, StringBuilder
