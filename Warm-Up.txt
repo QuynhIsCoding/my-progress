@@ -1,0 +1,11 @@
+# WARM UP AFTER A LONG BREAK
+## Day 1: 
+- Print message
+- Simple calculators: with and without prompting for input
+- Number guessing game: with and without loop
+- Student Grade Tracker: classes (Student - getName, addGrade, calculateAvg, printInfo; Main) 
+
+## Day 2: 
+- Bank Account Simulator (deposit(), withdraw(), checkBalance())
+- To-do List (addTask(), removeTask(), viewTask(), exit())
+- New thing: when use sb, it's better to append individually. 
